@@ -3,5 +3,3 @@
 Explains findings generated from methods:
 
 Lots of interesting findings to be discussed.
-
-ufeajheshdgq
